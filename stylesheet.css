@@ -1,0 +1,35 @@
+.screen{
+    background-color: aquamarine;
+    width: auto;
+    height: 50px;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+
+    
+}
+.buttonnumbers{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+}
+.b{
+    width: 50px;
+    height: 65px;
+}
+.all{
+    background-color: gray;
+    height:900px;
+}
+.clearbtn{
+    margin-left: 820px;
+    width: 90px;
+    height: 40px;
+
+}
